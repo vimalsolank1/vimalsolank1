@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vimal Solanki</h1>
-<h3 align="center">🚀 AI/ML Engineer | Generative AI (RAG, LLMs) | Data Science</h3>
+<h3 align="center">🚀 AI/ML Engineer | Data Scientist | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI%2FML+Engineer;Generative+AI+Builder;RAG+%7C+LLMs+%7C+Machine+Learning;Building+Scalable+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI%2FML+Engineer;Data+Scientist;Data+Analyst;Building+AI+Driven+Solutions;Turning+Data+into+Business+Impact" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 ## 🧠 About Me
 
 * 🎓 MS in AI & ML (Ongoing)
-* 💡 AI/ML Engineer focused on **real-world problem solving**
-* 🤖 Built systems using **RAG, LLMs, LangChain, FAISS**
-* 📊 Strong in **Python, SQL, Machine Learning pipelines**
-* 🎯 Goal: Build scalable AI products with business impact
+* 💡 Working across **AI/ML, Data Science, and Data Analytics**
+* 🤖 Built systems using **RAG, LLMs, Machine Learning pipelines**
+* 📊 Strong in **data analysis, modeling, and visualization**
+* 🎯 Focused on solving **real-world business problems using data**
 
 ---
 
@@ -26,15 +26,18 @@
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sql" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🤖 Machine Learning & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=sklearn" />
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hypothesis%20Testing-4B8BBE?style=for-the-badge"/>
 </p>
 
 ### 🧠 Generative AI
@@ -45,24 +48,42 @@
 <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
 </p>
 
-### 📊 Data & Visualization
+### 🗣️ NLP
 
 <p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge"/>
+</p>
+
+### 👁️ Computer Vision
+
+<p>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SSD-FF1493?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge"/>
+</p>
+
+### 📊 Data Analysis & Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ### ⚙️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
@@ -75,9 +96,9 @@
 <img src="https://via.placeholder.com/800x400.png?text=Research+Assistant+Demo"/>
 </p>
 
-* Multi-document AI research assistant
-* Semantic chunking + embeddings + FAISS
-* Summarization, comparison, insights
+* Built a multi-document AI assistant for research analysis
+* Used embeddings + FAISS for semantic retrieval
+* Enabled faster insights and reduced manual effort
 
 ---
 
@@ -87,9 +108,9 @@
 <img src="https://via.placeholder.com/800x400.png?text=RAG+Chatbot+Demo"/>
 </p>
 
-* Multi-document + real-time web search
-* Reduced hallucination with context retrieval
-* Built using LangChain + Streamlit
+* Combined document search with real-time web data
+* Improved answer accuracy and reduced hallucination
+* Delivered efficient information retrieval system
 
 ---
 
@@ -99,22 +120,9 @@
 <img src="https://via.placeholder.com/800x400.png?text=ML+Project"/>
 </p>
 
-* Dataset: 85K+ records
-* LightGBM (73% accuracy, 68% recall)
-* Identified key business drivers
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vimalsolank1&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalsolank1&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vimalsolank1&theme=tokyo-night"/>
-</p>
+* Built ML model on 85K+ records to predict dissatisfaction
+* Achieved 73% accuracy and identified key drivers
+* Helped enable proactive customer support decisions
 
 ---
 
@@ -134,14 +142,6 @@
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Business Impact
 
-* 🔥 RAG Systems & LLM Applications
-* 📊 Machine Learning Optimization
-* 🚀 Production-ready AI Systems
-
----
-
-## 💡 Fun Fact
-
-I don’t just train models… I build AI systems that solve real problems 😄
+I focus on building data and AI solutions that improve decision-making, reduce manual effort, and create measurable business value through automation and intelligent systems.
